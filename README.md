@@ -44,6 +44,7 @@
 > `answer.`  
 > สร้างไฟล์ gitflow.txt แล้วอยู่ใน path นี้ครับ  
 > ทดสอบเรียบร้อบ push, delete file text, and restore
+> [Link event](https://github.com/atofinal/git-test/commit/ef43a11130f2eee0269e1a80e78f3b29b78d8616#diff-30087da60dcbf4b25422381524540f60)
 
 ---
 
@@ -101,7 +102,7 @@
 + สลับมา branch ใหม่
 + แก้ไขไฟล์ .txt
 + push ขึ้น repo
-+ ทำการ rebase เข้ากับ master  อีกรอบ
++ ทำการ rebase เข้ากับ master อีกรอบ
 > `answer.`  
 > 
 
