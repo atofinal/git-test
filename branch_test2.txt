@@ -1,1 +1,4 @@
-test new branch test
+
+Lab rebase
+
+(test Branch) Edit text by test Branch
