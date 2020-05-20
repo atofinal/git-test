@@ -165,6 +165,6 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/node,macos,windows
 
 # Lab Git ignore
-*.html
-*.css
-*.js
+# *.html
+# *.css
+# *.js
