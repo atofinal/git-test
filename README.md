@@ -7,7 +7,7 @@
 + คลิกขวาที่ folder ที่สร้างขึ้นมาใหม่และรัน git bash
 + ทำการเชื่อม github กับ computer เรา
 + สร้างไฟล์ Readme.md
-> `answer.`
+> `answer.`  
 > สร้างและเชื่อมแล้ว ตอนนี้อยู่ใน New reprository /git-test
 
 ---
@@ -22,7 +22,7 @@
 + สร้าง ตัวหนา ตัวเอียง
 + สร้าง `<hr>`
 + สร้าง blockquotes
-> `answer.`
+> `answer.`  
 > ### Header
 > [This Link]:https://github.com/atofinal/git-test "<< Link"
 > **ตัวหนา** _ตัวเอียง_
@@ -41,7 +41,7 @@
 + git commit -m “title” -m “description”
 + git push
 + git restore .
-> `answer.`
+> `answer.`  
 > สร้างไฟล์ gitflow.txt แล้วอยู่ใน path นี้ครับ  
 > ทดสอบเรียบร้อบ push, delete file text, and restore
 
@@ -61,7 +61,7 @@
 + สร้างไฟล์ .txt upload file ขึ้น branch ใหม่
 + สลับมา master
 + ดูการเปลี่ยนแปลง
-> `answer.`
+> `answer.`  
 > 
 
 
