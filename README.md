@@ -1,7 +1,7 @@
 # git-test
 
 ## Lab New reprository
-{: .gitlab-orange}
+{: .lab-orange}
 + ให้สร้าง git reprository ใหม่
 + ขึ้นมาว่า git test
 + ทำการสร้าง folder ที่จะเก็บไฟล์ภายในเครื่อง
@@ -14,7 +14,7 @@
 ---
 
 ## Lab Markdown
-{: .gitlab-orange}
+{: .lab-orange}
 + ให้ลองเขียน markdown file
 + สร้าง README.md
 + ให้ใส่รายละเอียด reprository หรือ ข้อมูลพื้นฐานต่างๆ
@@ -32,7 +32,7 @@
 ---
 
 ## Lab git flow
-{: .gitlab-orange}
+{: .lab-orange}
 + ให้ลองเขียน สร้างไฟล์ .txt
 + พิมพ์ข้อความอะไรก็ได้
 + save และ ทำการ add file
@@ -51,7 +51,7 @@
 ---
 
 ## Lab branch
-{: .gitlab-orange}
+{: .lab-orange}
 + สร้าง branch ใหม่ด้วย
 + git branch
 + checkout ไป branch ใหม่
@@ -71,7 +71,7 @@
 ---
 
 ## Lab git merge
-{: .gitlab-orange}
+{: .lab-orange}  
 `กรณีมี conflict`
 + แก้ไข file .txt ใน master
 + push ขึ้น repo
