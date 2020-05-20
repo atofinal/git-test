@@ -44,7 +44,7 @@
 > `answer.`  
 > สร้างไฟล์ gitflow.txt แล้วอยู่ใน path นี้ครับ  
 > ทดสอบเรียบร้อบ push, delete file text, and restore
-> [Link event](https://github.com/atofinal/git-test/commit/ef43a11130f2eee0269e1a80e78f3b29b78d8616#diff-30087da60dcbf4b25422381524540f60)
+> [Link event Create file and Delete and Restore](https://github.com/atofinal/git-test/commit/ef43a11130f2eee0269e1a80e78f3b29b78d8616#diff-30087da60dcbf4b25422381524540f60)
 
 ---
 
@@ -104,11 +104,16 @@
 + push ขึ้น repo
 + ทำการ rebase เข้ากับ master อีกรอบ
 > `answer.`  
+> ทดสอบเรียบร้อบ [Link event Rebase](https://github.com/atofinal/git-test/commit/d41fa8eb30b27bd0f79e8564bd6e52b2b908bac6)
+
+---
+
+## Lab git ignore
++ ลอง สร้างไฟล์ .html, .css, .js push repo
++ ignore ไฟล์ .html git rm --cached file_name push repo
++ edit ignore ไฟล์ .css push repo git rm --chached file_name
++ edit ignore ไฟล์ .js push repo git rm --cached file_name push repo
+> `answer.`  
 > 
-
-
-
-
-
 
 
