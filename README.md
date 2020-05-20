@@ -1,7 +1,6 @@
 # git-test
 
 ## Lab New reprository
-{: .lab-orange}
 + ให้สร้าง git reprository ใหม่
 + ขึ้นมาว่า git test
 + ทำการสร้าง folder ที่จะเก็บไฟล์ภายในเครื่อง
@@ -14,7 +13,6 @@
 ---
 
 ## Lab Markdown
-{: .lab-orange}
 + ให้ลองเขียน markdown file
 + สร้าง README.md
 + ให้ใส่รายละเอียด reprository หรือ ข้อมูลพื้นฐานต่างๆ
@@ -32,7 +30,6 @@
 ---
 
 ## Lab git flow
-{: .lab-orange}
 + ให้ลองเขียน สร้างไฟล์ .txt
 + พิมพ์ข้อความอะไรก็ได้
 + save และ ทำการ add file
@@ -51,7 +48,6 @@
 ---
 
 ## Lab branch
-{: .lab-orange}
 + สร้าง branch ใหม่ด้วย
 + git branch
 + checkout ไป branch ใหม่
@@ -70,8 +66,7 @@
 
 ---
 
-## Lab git merge
-{: .lab-orange}  
+## Lab git merge  
 `กรณีมี conflict`
 + แก้ไข file .txt ใน master
 + push ขึ้น repo
@@ -89,7 +84,27 @@
 + push ขึ้น repo
 + ทำการ merge เข้ากับ master อีกรอบ
 > `answer.`  
+> ทดสอบเรียบร้อบ [Link event Merge](https://github.com/atofinal/git-test/commit/9a19054fc4490e49bf6788d3d5b4580a734886aa#diff-30087da60dcbf4b25422381524540f60)
+
+---
+
+## Lab rebase
+`กรณีมี conflict `  
++ สร้าง branch ใหม่
++ แก้ไข file .txt ใน master
++ push ขึ้น repo
++ สลับไป branch ที่สร้างเมื่อกี้
++ แก้ไข file.txt ให้ไม่เหมือนใน master
++ push ขึ้น repo
++ ทำการ rebase เข้ากับ master
+`กรณี ไม่มี conflict`  
++ สลับมา branch ใหม่
++ แก้ไขไฟล์ .txt
++ push ขึ้น repo
++ ทำการ rebase เข้ากับ master  อีกรอบ
+> `answer.`  
 > 
+
 
 
 
