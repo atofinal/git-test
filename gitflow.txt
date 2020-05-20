@@ -12,7 +12,7 @@
 • git push
 • git restore .
 
-Type Text TEST... 
+Type Text TEST...
 test Finish
 
-(master) text edit by Master
+(test) edit text by test Branch
