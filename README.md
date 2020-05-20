@@ -116,7 +116,8 @@
 + ignore ไฟล์ .html git rm --cached file_name push repo
 + edit ignore ไฟล์ .css push repo git rm --chached file_name
 + edit ignore ไฟล์ .js push repo git rm --cached file_name push repo
-> `answer.`  
+> `answer.`
+> ทดสอบเรียบร้อย  
 > [Link ignore file HTML](https://github.com/atofinal/git-test/commit/af031cac6c7fbc0d6674d4c00fdbdd6b18eb16d0#diff-4f0d3e00d5c0fb5bb7dd91df339271dc)  
 > [Link ignore file CSS](https://github.com/atofinal/git-test/commit/06a2786bcf5b4f496391df96511631e2077973dd)  
 > [Link ignore file JS](https://github.com/atofinal/git-test/commit/ae47afdc59e834520342d6a1d2ac5563941c4a54)  
