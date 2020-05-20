@@ -167,3 +167,4 @@ $RECYCLE.BIN/
 # Lab Git ignore
 *.html
 *.css
+*.js
