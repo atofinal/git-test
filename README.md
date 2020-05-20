@@ -24,8 +24,7 @@
 + สร้าง blockquotes
 > `answer.`  
 > ### Header
-> [This Link] << Link
-> [This Link]:https://github.com/atofinal/git-test "<< Link Description when Hover, and this line not show"
+> This Link <https://github.com/atofinal/git-test>
 > **ตัวหนา** _ตัวเอียง_
 > > blockquote
 ---
