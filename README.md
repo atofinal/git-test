@@ -42,7 +42,7 @@
 + git push
 + git restore .
 > `answer.`
-> สร้างไฟล์ gitflow.txt แล้วอยู่ใน path นี้ครับ
+> สร้างไฟล์ gitflow.txt แล้วอยู่ใน path นี้ครับ  
 > ทดสอบเรียบร้อบ push, delete file text, and restore
 
 ---
@@ -56,12 +56,11 @@
 + upload file ขึ้น branch ใหม่
 + สลับกลับมา master
 + ดูการเปลี่ยนแปลงที่เกิดขึ้น
-+ ลบ branch ด้วย
-+ git branch -d branch_name
++ ลบ branch ด้วย git branch -d branch_name
 + ลอง ใช้คำสั่ง git checkout -b branch_name
-+ สร้างไฟล์ .txt upload
++ สร้างไฟล์ .txt upload file ขึ้น branch ใหม่
 + สลับมา master
-+ กูการเปลี่ยนแปลง
++ ดูการเปลี่ยนแปลง
 > `answer.`
 > 
 
